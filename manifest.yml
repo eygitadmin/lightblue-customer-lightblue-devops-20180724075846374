@@ -4,5 +4,6 @@ applications:
   instances: 1
   domain: mybluemix.net
   disk_quota: 1024M
-  services:
-  - Cloudant-bala-db
+
+services:
+- Cloudant-bala-db
